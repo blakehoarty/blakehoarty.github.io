@@ -35,7 +35,6 @@ I am on the 2026–2027 economics job market.
 <a id="research"></a>
 
 <a id="teaching"></a>
-hi
 
 ## Research Interests 
 - Agricultural Economics
