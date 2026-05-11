@@ -52,3 +52,5 @@
 **ARE 201: Introduction to Agricultural & Resource Economics, Spring 2025**
 <img src="are_201_spring2025-1.png" alt="ARE 201 Spring 2025 Teaching Evaluation" width="850">
 
+**EC 202: Principles of Macroeconomics, Spring 2024**
+<img src="ec_202_spring2024-1.png" alt="EC 202 Spring 2024 Teaching Evaluation" width="850">
