@@ -43,8 +43,8 @@ I am on the 2026–2027 economics job market.
 
 ## Education
 
-PhD. Economics - North Carolina State University, 2027 (Expected)
-MA Economics - George Mason University, 2020 
-BA Public Policy, Political Science - University of North Carolina at Chapel Hill, 2016
+- PhD. Economics - North Carolina State University, 2027 (Expected)
+- MA Economics - George Mason University, 2020 
+- BA Public Policy, Political Science - University of North Carolina at Chapel Hill, 2016
 
 
