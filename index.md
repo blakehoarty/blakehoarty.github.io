@@ -39,13 +39,6 @@ I am on the 2026–2027 economics job market.
 
 <a id="research"></a>
 
-## Research
-
-### Working Papers
-
-**Paper Title**  
-Short description here.
-
 <a id="teaching"></a>
 
 ## Teaching
