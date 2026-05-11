@@ -46,4 +46,8 @@
 - "Mr. Hoarty was a great teacher. He created a comfortable learning environment, going at the students' pace so as not to overload them with information"
 
 ## Quantitative Teaching Evaluations
+
 <img src="ec_202_spring2026-1.png" alt="EC 202 Spring 2026 Teaching Evaluation" width="850">
+
+<img src="are_201_spring2025-1.png" alt="ARE 201 Spring 2025 Teaching Evaluation" width="850">
+
