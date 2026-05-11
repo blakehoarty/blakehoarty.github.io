@@ -43,4 +43,5 @@
 - "He was entertaining and informative. Kept the class fun. I enjoyed having him as an instructor."
 - "Mr. Hoarty was a great teacher. He created a comfortable learning environment, going at the students' pace so as not to overload them with information"
 
-
+## Quantitative Reviews
+<iframe src="ec_202_spring2026.pdf" width="900" height="700"></iframe>
