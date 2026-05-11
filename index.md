@@ -32,9 +32,6 @@ North Carolina State University
 
 I am on the 2026–2027 economics job market.
 
-[CV](assets/Hoarty_CV.pdf)  
-[Job Market Paper](assets/Hoarty_JMP.pdf)  
-
 <a id="research"></a>
 
 <a id="teaching"></a>
@@ -43,6 +40,7 @@ I am on the 2026–2027 economics job market.
 - Agricultural Economics
 - Bayesian Econometrics
 - Microeconomics
+
 ## Education
 
 - PhD. Economics - North Carolina State University, 2027 (Expected)
