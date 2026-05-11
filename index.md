@@ -25,8 +25,6 @@
   <a href="assets/Hoarty_JMP.pdf">JMP</a>
 </div>
 
-# Blake Hoarty
-
 Ph.D. Student in Economics  
 North Carolina State University  
 
