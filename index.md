@@ -27,8 +27,6 @@
 
 <a id="home"></a>
 
-# Blake Hoarty
-
 Ph.D. Candidate in Economics  
 North Carolina State University  
 
