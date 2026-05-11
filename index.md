@@ -30,8 +30,6 @@
 Ph.D. Student in Economics  
 North Carolina State University  
 
-Research fields: Agricultural Economics, Bayesian Econometrics, Microeconomics
-
 I am on the 2026–2027 economics job market.
 
 [CV](assets/Hoarty_CV.pdf)  
@@ -41,6 +39,10 @@ I am on the 2026–2027 economics job market.
 
 <a id="teaching"></a>
 
+## Research Interests 
+- Agricultural Economics
+- Bayesian Econometrics
+- Microeconomics
 ## Education
 
 - PhD. Economics - North Carolina State University, 2027 (Expected)
