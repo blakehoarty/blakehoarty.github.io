@@ -18,23 +18,19 @@
 </style>
 
 <div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#research">Research</a>
+  <a href="index.html">Home</a>
+  <a href="research.html">Research</a>
   <a href="teaching.html">Teaching</a>  
   <a href="assets/Hoarty_CV.pdf">CV</a>
   <a href="assets/Hoarty_JMP.pdf">JMP</a>
 </div>
 
-<a id="home"></a>
+# Blake Hoarty
 
 Ph.D. Student in Economics  
 North Carolina State University  
 
 I am on the 2026–2027 economics job market.
-
-<a id="research"></a>
-
-<a id="teaching"></a>
 
 ## Research Interests 
 - Agricultural Economics
@@ -46,5 +42,3 @@ I am on the 2026–2027 economics job market.
 - PhD. Economics - North Carolina State University, 2027 (Expected)
 - MA Economics - George Mason University, 2020 
 - BA Public Policy, Political Science - University of North Carolina at Chapel Hill, 2016
-
-
