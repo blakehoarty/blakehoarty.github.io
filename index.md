@@ -27,7 +27,7 @@
 
 <a id="home"></a>
 
-Ph.D. Candidate in Economics  
+Ph.D. Student in Economics  
 North Carolina State University  
 
 Research fields: Agricultural Economics, Bayesian Econometrics, Microeconomics
