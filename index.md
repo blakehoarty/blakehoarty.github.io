@@ -20,7 +20,7 @@
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#research">Research</a>
-  <a href="#teaching">Teaching</a>
+  <a href="teaching.html">Teaching</a>  
   <a href="assets/Hoarty_CV.pdf">CV</a>
   <a href="assets/Hoarty_JMP.pdf">JMP</a>
 </div>
