@@ -115,6 +115,18 @@ The number of tobacco farms has been in sharp decline in the United States. Over
 
 ## Pre-Doctoral Publications
 
+**PPI and CPI seasonal adjustment during the COVID-19 pandemic**
+
+*Blake Hoarty, Steven M. Muri, Daniel J. Pallotta, Marie Rogers, Jonathan C. Weinhagen, Jeffrey S. Wilson*
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+
+  <p>
+<details>
+The U.S. Bureau of Labor Statistics publishes seasonally adjusted Consumer Price Index (CPI) and Producer Price Index (PPI) data monthly. Seasonal adjustment removes within-year seasonal patterns from data. To seasonally adjust data and estimate seasonal patterns of time series, the CPI and PPI use a filter-based approach that employs moving averages of historical data. In 2020, many PPIs and CPIs experienced extreme movements because of the coronavirus disease 2019 (COVID-19) pandemic. For example, the PPI and CPI for gasoline decreased 53.0 percent and 16.5 percent in April 2020, respectively. Because the CPI and PPI use historical data to estimate seasonal patterns, the extreme price movements in 2020 could have adversely affected the capability of the two price programs to accurately estimate seasonally adjusted data. This article explains how the CPI and PPI mitigated the effects of the COVID-19 pandemic on their seasonally adjusted price indexes. Mitigation steps included identifying price indexes whose movements were affected by the pandemic, estimating time series models to quantify these effects, and removing pandemic-related price movements from the data before estimating seasonal patterns.
+<br><br>
+
 **On regulation and excess reserves: The case of Basel III**
 
 *Stephen Matteo Miller, Blake Hoarty*
@@ -128,3 +140,5 @@ The number of tobacco farms has been in sharp decline in the United States. Over
 Common explanations for the observed rise in excess bank reserves include payment of interest on reserves and liquidity regulations, but capital regulations may also matter. We use Kuhn-Tucker conditions to show that a profit‐maximizing bank substitutes from higher risk‐weighted loans to lower risk‐weighted reserves and Treasuries if the risk‐based capital ratio, but not the leverage ratio, increases. Using a fully-flexible difference-in-differences model, we show estimated treatment effects for “advanced approaches” bank holding companies, the focus of Basel III capital regulations, initially increased for reserves after the regulatory changes but later decreased when treatment effects for Treasuries increased as Treasury yields rose; treatment effects for loans became increasingly negative.
   </p>
 </details>
+
+
