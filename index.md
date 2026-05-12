@@ -21,7 +21,7 @@
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="teaching.html">Teaching</a>  
-  <a href="assets/Hoarty_CV.pdf">CV</a>
+  <a href="Hoarty_CV.pdf" target="_blank">CV</a>
   <a href="assets/Hoarty_JMP.pdf">JMP</a>
 </div>
 
