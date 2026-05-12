@@ -125,7 +125,6 @@ The number of tobacco farms has been in sharp decline in the United States. Over
   <summary><strong>Abstract</strong></summary>
 
   <p>
-<details>
 The U.S. Bureau of Labor Statistics publishes seasonally adjusted Consumer Price Index (CPI) and Producer Price Index (PPI) data monthly. Seasonal adjustment removes within-year seasonal patterns from data. To seasonally adjust data and estimate seasonal patterns of time series, the CPI and PPI use a filter-based approach that employs moving averages of historical data. In 2020, many PPIs and CPIs experienced extreme movements because of the coronavirus disease 2019 (COVID-19) pandemic. For example, the PPI and CPI for gasoline decreased 53.0 percent and 16.5 percent in April 2020, respectively. Because the CPI and PPI use historical data to estimate seasonal patterns, the extreme price movements in 2020 could have adversely affected the capability of the two price programs to accurately estimate seasonally adjusted data. This article explains how the CPI and PPI mitigated the effects of the COVID-19 pandemic on their seasonally adjusted price indexes. Mitigation steps included identifying price indexes whose movements were affected by the pandemic, estimating time series models to quantify these effects, and removing pandemic-related price movements from the data before estimating seasonal patterns.
 </p>
 
