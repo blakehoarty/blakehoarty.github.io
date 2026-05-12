@@ -64,6 +64,7 @@ Meat demand has been a topic of interest for agricultural economists for the pas
   </p>
 </details>
 
+<br><br>
 
 **Moment Based Prior Sensitivity Analysis in High Dimensional Bayesian Econometric Models**  
 
