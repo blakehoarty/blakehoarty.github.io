@@ -145,4 +145,21 @@ Common explanations for the observed rise in excess bank reserves include paymen
   </p>
 </details>
 
+<br><br>
+
+**Licensing massage therapists in the name of crime: the case of Harper v Lindsay**
+
+*Darwynn Deyo, Blake Hoarty, Conor Norris, Edward Timmons*
+
+**Published in:** *Journal of Entrepreneurship and Public Policy* 10(1): 1-14, February 2021.
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+
+  <p>
+This study aims to analyze the trends for crime and STDs after the passage of massage therapist licensing. In 1977, Texas passed a law permitting county-level licensing laws for massage therapists, which was soon followed by a statewide licensing requirement in 1985. This early massage therapy law was upheld by the Fifth Circuit Court of Appeals. Massage therapy licensing is commonly associated with preventing crime, specifically prostitution. However, massage parlors also represent an opportunity for entrepreneurs starting businesses, who face significant barriers to entry across the USA.
+  </p>
+</details>
+
+
 
