@@ -133,6 +133,7 @@ The U.S. Bureau of Labor Statistics publishes seasonally adjusted Consumer Price
 <br><br>
 
 **On regulation and excess reserves: The case of Basel III**
+[Read article](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12239)
 
 *Stephen Matteo Miller, Blake Hoarty*
 
