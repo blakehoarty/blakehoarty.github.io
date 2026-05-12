@@ -172,6 +172,7 @@ This study aims to analyze the trends for crime and STDs after the passage of ma
 *Corey DeAngelis, Blake Hoarty*
 
 **Published in:** *Cato Institute Policy Analysis no. 848*, September 2018
+[Read article](https://www.cato.org/policy-analysis/who-participates-analysis-school-participation-decisions-two-voucher-programs)
 
 <details>
   <summary><strong>Abstract</strong></summary>
