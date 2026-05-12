@@ -50,6 +50,8 @@
 
 [Download paper](assets/Hoarty_JMP.pdf)
 
+<br><br>
+
 ## Working Papers
 
 **The Evolving Nature of Seasonality in Meat Demand**  
