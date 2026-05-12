@@ -168,11 +168,11 @@ This study aims to analyze the trends for crime and STDs after the passage of ma
 <br><br>
 
 **Who Participates? An Analysis of School Participation Decisions in Two Voucher Programs in the United States**
+[Read article](https://www.cato.org/policy-analysis/who-participates-analysis-school-participation-decisions-two-voucher-programs)
 
 *Corey DeAngelis, Blake Hoarty*
 
 **Published in:** *Cato Institute Policy Analysis no. 848*, September 2018
-[Read article](https://www.cato.org/policy-analysis/who-participates-analysis-school-participation-decisions-two-voucher-programs)
 
 <details>
   <summary><strong>Abstract</strong></summary>
