@@ -21,8 +21,8 @@
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="teaching.html">Teaching</a>
-  <a href="assets/Hoarty_CV.pdf">CV</a>
-  <a href="assets/Hoarty_JMP.pdf">JMP</a>
+  <a href="assets/Hoarty_CV.pdf">Curriculum Vitae</a>
+  <a href="assets/Hoarty_JMP.pdf">Job Market Paper</a>
 </div>
 
 # Teaching
