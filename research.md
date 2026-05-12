@@ -161,6 +161,8 @@ This study aims to analyze the trends for crime and STDs after the passage of ma
   </p>
 </details>
 
+<br><br>
+
 **Who Participates? An Analysis of School Participation Decisions in Two Voucher Programs in the United States**
 
 *Corey DeAngelis, Blake Hoarty*
