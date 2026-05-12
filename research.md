@@ -95,11 +95,13 @@ Equivalence scales measure the income difference needed to compare income across
   </p>
 </details>
 
+<br><br>
+
 ## Extension Work 
 
 **Is There A Future for Tobacco Farming?**
 
-*Jeffrey H. Dorfman, Blake Hoarty, Younghyeon Jeon,*
+*Jeffrey H. Dorfman, Blake Hoarty, Younghyeon Jeon*
 
 <details>
   <summary><strong>Abstract</strong></summary>
