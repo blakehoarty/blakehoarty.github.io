@@ -79,6 +79,7 @@ dimensional Bayesian regression settings.
   </p>
 </details>
 
+<br><br>
 
 **Optimally Combining Information Sources to Estimate the Federal Poverty Guidelines: Robustness and Red Flags**
 
