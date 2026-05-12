@@ -29,7 +29,7 @@
 
 ### A Sequential Stochastic Approach to Rationalizing Hedging Decisions in Agricultural Markets
 
-Blake Hoarty, Jeffrey Dorfman
+*Blake Hoarty, Jeffrey Dorfman*
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -56,7 +56,13 @@ Blake Hoarty, Jeffrey Dorfman
 
 *Blake Hoarty, Barry Goodwin, Jeffrey Dorfman*
 
+<details>
+  <summary><strong>Abstract</strong></summary>
+
+  <p>
 Meat demand has been a topic of interest for agricultural economists for the past 100 years and the methodologies used to model demand features such as seasonality and changes in tastes have been subject to substantial debate. In this paper, we estimate seasonality in the Rotterdam demand system from Barten (1964) and Theil (1965) for beef, pork, chicken and turkey from the years 1980-2020 across three different methodologies and assess their results and implications. Patterns of seasonality in meat demand appear to have shifted significantly in recent years, and we evaluate the evolving nature of seasonality in the demand for individual meat products. We first estimate a standard Rotterdam demand system with seasonal dummies. Next, we estimate a Rotterdam demand system with second order Fourier expansion to assess smoother patterns of seasonality. Lastly, we estimate a gradually switching regime model that enables us to assess seasonality while imposing only minimal restrictions on the representative agent&#39;s utility function.
+  </p>
+</details>
 
 **Moment Based Prior Sensitivity Analysis in High Dimensional Bayesian Econometric Models**  
 
