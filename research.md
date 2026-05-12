@@ -116,7 +116,7 @@ The number of tobacco farms has been in sharp decline in the United States. Over
 ## Pre-Doctoral Publications
 
 **PPI and CPI seasonal adjustment during the COVID-19 pandemic**
-[Read article](https://www.bls.gov/opub/mlr/2022/article/ppi-and-cpi-seasonal-adjustment-during-the-covid-19-pandemic.htm)
+[(Link)](https://www.bls.gov/opub/mlr/2022/article/ppi-and-cpi-seasonal-adjustment-during-the-covid-19-pandemic.htm)
 
 *Blake Hoarty, Steven M. Muri, Daniel J. Pallotta, Marie Rogers, Jonathan C. Weinhagen, Jeffrey S. Wilson*
 
@@ -133,7 +133,7 @@ The U.S. Bureau of Labor Statistics publishes seasonally adjusted Consumer Price
 <br><br>
 
 **On regulation and excess reserves: The case of Basel III**
-[Read article](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12239)
+[(Link)](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12239)
 
 *Stephen Matteo Miller, Blake Hoarty*
 
@@ -150,7 +150,7 @@ Common explanations for the observed rise in excess bank reserves include paymen
 <br><br>
 
 **Licensing massage therapists in the name of crime: the case of Harper v Lindsay**
-[Read article](https://ideas.repec.org/a/eme/jepppp/jepp-06-2020-0034.html)
+[(Link)](https://ideas.repec.org/a/eme/jepppp/jepp-06-2020-0034.html)
 
 
 *Darwynn Deyo, Blake Hoarty, Conor Norris, Edward Timmons*
@@ -168,7 +168,7 @@ This study aims to analyze the trends for crime and STDs after the passage of ma
 <br><br>
 
 **Who Participates? An Analysis of School Participation Decisions in Two Voucher Programs in the United States**
-[Read article](https://www.cato.org/policy-analysis/who-participates-analysis-school-participation-decisions-two-voucher-programs)
+[(Link)](https://www.cato.org/policy-analysis/who-participates-analysis-school-participation-decisions-two-voucher-programs)
 
 *Corey DeAngelis, Blake Hoarty*
 
