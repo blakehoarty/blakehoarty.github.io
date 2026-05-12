@@ -64,6 +64,7 @@ Meat demand has been a topic of interest for agricultural economists for the pas
   </p>
 </details>
 
+
 **Moment Based Prior Sensitivity Analysis in High Dimensional Bayesian Econometric Models**  
 
 *Blake Hoarty, Sujit Ghosh, Jeffrey Dorfman*
