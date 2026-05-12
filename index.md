@@ -21,8 +21,8 @@
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="teaching.html">Teaching</a>  
-  <a href="Hoarty_CV.pdf" target="_blank">CV</a>
-  <a href="Hoarty_JMP.pdf" target="_blank">CV</a>
+  <a href="Hoarty_CV.pdf" target="_blank">Curriculum Vitae</a>
+  <a href="Hoarty_JMP.pdf" target="_blank">Job Market Paper</a>
 </div>
 
 Ph.D. Student in Economics  
