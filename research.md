@@ -116,6 +116,7 @@ The number of tobacco farms has been in sharp decline in the United States. Over
 ## Pre-Doctoral Publications
 
 **PPI and CPI seasonal adjustment during the COVID-19 pandemic**
+[Read article](https://www.bls.gov/opub/mlr/2022/article/ppi-and-cpi-seasonal-adjustment-during-the-covid-19-pandemic.htm)
 
 *Blake Hoarty, Steven M. Muri, Daniel J. Pallotta, Marie Rogers, Jonathan C. Weinhagen, Jeffrey S. Wilson*
 
