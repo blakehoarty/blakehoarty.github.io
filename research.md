@@ -161,5 +161,18 @@ This study aims to analyze the trends for crime and STDs after the passage of ma
   </p>
 </details>
 
+**Who Participates? An Analysis of School Participation Decisions in Two Voucher Programs in the United States**
+
+*Corey DeAngelis, Blake Hoarty*
+
+**Published in:** *Cato Institute Policy Analysis no. 848*, September 2018
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+
+  <p>
+Most empirical studies of school choice examine academic outcomes of students who attend private schools compared to students who do not. We eschew this traditional approach and examine the quality of schools that decide to participate in school voucher programs in Milwaukee, WI and the state of Ohio. We use probit regression analysis to examine the quality of schools that elected to participate in voucher programs in Ohio and Milwaukee. Using tuition and enrollment levels—proxies for price and quantity demanded — we find evidence suggesting that lower‐quality schools are more likely to participate in voucher programs. Specifically, a $1,000 increase in tuition is associated with 3 percent lower likelihood of participation in the Milwaukee voucher program and a 3.8 percent lower likelihood of participation in the Ohio Educational Choice voucher program. We also find that a one‐point increase in a GreatSchools review score is associated with a 14.8 percent reduction in the likelihood of voucher program participation in Milwaukee. (GreatSchools is an online nonprofit that provides educational information and reviews for private, public, and charter schools.)
+  </p>
+</details>
 
 
