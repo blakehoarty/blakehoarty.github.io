@@ -107,7 +107,7 @@ Equivalence scales measure the income difference needed to compare income across
   <summary><strong>Abstract</strong></summary>
 
   <p>
-As previously reported here, the number of tobacco farms has been in sharp decline in the United States (Snell, 2024). Over half of the remaining tobacco farms and an even larger share of tobacco acres are in either Kentucky or North Carolina. A new survey of tobacco growers in North Carolina suggests some uncertainty over the survival of the crop in the U.S. We surveyed tobacco farmers in North Carolina by emailing all of them a link to an online survey as well as using county agents to remind them to complete the survey. We ended up with a sample of 114 usable responses for most sets of variables. The results mgive us the most detailed current picture we have of tobacco growers.
+The number of tobacco farms has been in sharp decline in the United States. Over half of the remaining tobacco farms and an even larger share of tobacco acres are in either Kentucky or North Carolina. A new survey of tobacco growers in North Carolina suggests some uncertainty over the survival of the crop in the U.S. We surveyed tobacco farmers in North Carolina by emailing all of them a link to an online survey as well as using county agents to remind them to complete the survey. We ended up with a sample of 114 usable responses for most sets of variables. The results mgive us the most detailed current picture we have of tobacco growers.
   </p>
 </details>
 
