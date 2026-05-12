@@ -150,6 +150,8 @@ Common explanations for the observed rise in excess bank reserves include paymen
 <br><br>
 
 **Licensing massage therapists in the name of crime: the case of Harper v Lindsay**
+[Read article](https://ideas.repec.org/a/eme/jepppp/jepp-06-2020-0034.html)
+
 
 *Darwynn Deyo, Blake Hoarty, Conor Norris, Edward Timmons*
 
