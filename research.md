@@ -29,7 +29,7 @@
 
 ### A Sequential Stochastic Approach to Rationalizing Hedging Decisions in Agricultural Markets
 
-*Blake Hoarty, Jeffrey Dorfman*
+*Blake Hoarty, Jeffrey H. Dorfman*
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -56,7 +56,7 @@
 
 **The Evolving Nature of Seasonality in Meat Demand**  
 
-*Blake Hoarty, Barry Goodwin, Jeffrey Dorfman*
+*Blake Hoarty, Barry Goodwin, Jeffrey H. Dorfman*
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -70,7 +70,7 @@ Meat demand has been a topic of interest for agricultural economists for the pas
 
 **Moment Based Prior Sensitivity Analysis in High Dimensional Bayesian Econometric Models**  
 
-*Blake Hoarty, Sujit Ghosh, Jeffrey Dorfman*
+*Blake Hoarty, Sujit Ghosh, Jeffrey H. Dorfman*
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -94,3 +94,18 @@ dimensional Bayesian regression settings.
 Equivalence scales measure the income difference needed to compare income across households of different sizes and types, important for policy actions such as setting welfare program eligibility thresholds in an equitable manner.  Empirical estimates of equivalence scales have been subject to criticism over features such as significant sensitivity to identifying assumptions.  This paper presents a Bayesian method of combining estimates of equivalence scales from two disparate sources of empirical estimates: surveys and scanner data.  We treat estimates from a survey in which respondents were asked how much extra (or less) income it would take to equalize their financial situation if their household size went up (or down) as our prior.  Then we use revealed expenditure patterns from households with two adults and either with zero or one child as our data and numerical Bayesian techniques to estimate a posterior distribution of the equivalence scale for this change in household type.  This takes advantage of the fact that while Bayesian methods are typically thought of as a method for combining subjective prior beliefs with data-based information, they are actually a flexible, optimal method for combining any two sets of information on the same measures of interest.  Our results provide insight on the equitable setting of poverty lines and welfare program eligibility standards as well as provide a future framework for producing more robust estimates by utilizing multiple different data sources.  Further, the Bayesian methodology raises red flags when empirical estimates of equivalence scales from the two sources disagree to such an extent that the combined estimates (and at least one of the component estimates) should be considered unreliable.
   </p>
 </details>
+
+## Extension Work 
+
+**Is There A Future for Tobacco Farming?**
+
+*Jeffrey H. Dorfman, Blake Hoarty, Younghyeon Jeon,*
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+
+  <p>
+As previously reported here, the number of tobacco farms has been in sharp decline in the United States (Snell, 2024). Over half of the remaining tobacco farms and an even larger share of tobacco acres are in either Kentucky or North Carolina. A new survey of tobacco growers in North Carolina suggests some uncertainty over the survival of the crop in the U.S. We surveyed tobacco farmers in North Carolina by emailing all of them a link to an online survey as well as using county agents to remind them to complete the survey. We ended up with a sample of 114 usable responses for most sets of variables. The results mgive us the most detailed current picture we have of tobacco growers.
+  </p>
+</details>
+
