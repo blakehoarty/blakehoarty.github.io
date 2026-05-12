@@ -111,3 +111,20 @@ The number of tobacco farms has been in sharp decline in the United States. Over
   </p>
 </details>
 
+<br><br>
+
+## Pre-Doctoral Publications
+
+**On regulation and excess reserves: The case of Basel III**
+
+*Stephen Matteo Miller, Blake Hoarty*
+
+**Published in:** *Journal of Financial Research* 44(2): 215–247, March 2021.
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+
+  <p>
+Common explanations for the observed rise in excess bank reserves include payment of interest on reserves and liquidity regulations, but capital regulations may also matter. We use Kuhn-Tucker conditions to show that a profit‐maximizing bank substitutes from higher risk‐weighted loans to lower risk‐weighted reserves and Treasuries if the risk‐based capital ratio, but not the leverage ratio, increases. Using a fully-flexible difference-in-differences model, we show estimated treatment effects for “advanced approaches” bank holding companies, the focus of Basel III capital regulations, initially increased for reserves after the regulatory changes but later decreased when treatment effects for Treasuries increased as Treasury yields rose; treatment effects for loans became increasingly negative.
+  </p>
+</details>
