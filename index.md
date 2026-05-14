@@ -16,7 +16,6 @@
   text-decoration: underline;
 }
 
-</style>
 .profile-photo {
   width: 70px;
   height: 70px;
@@ -24,7 +23,7 @@
   border-radius: 50%;
   margin-bottom: 20px;
 }
-
+</style>
 
 <div class="navbar">
   <a href="index.html">Home</a>
