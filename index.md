@@ -16,6 +16,14 @@
   text-decoration: underline;
 }
 </style>
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
 
 <div class="navbar">
   <a href="index.html">Home</a>
