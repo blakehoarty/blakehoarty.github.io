@@ -15,6 +15,7 @@
 .navbar a:hover {
   text-decoration: underline;
 }
+
 </style>
 .profile-photo {
   width: 70px;
