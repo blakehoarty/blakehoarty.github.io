@@ -31,22 +31,16 @@
 
 *Blake Hoarty, Jeffrey H. Dorfman*
 
-<details>
-  <summary><strong>Abstract</strong></summary>
-
-  <p>
-    Farmers have historically hedged much less of their corn production than economists recommended.
-    Previous research has mostly modeled farmer behavior by employing the mean-variance hedge ratio
-    in a 2-period investment setting. In this paper, we eschew this approach and use expected utility
-    theory to rationalize hedging decisions made by farmers in a dynamic setting. We enable our farmer
-    to make hedging decisions on a weekly basis to account for incremental changes in prior market
-    beliefs. We operationalize farmer uncertainty through both Gaussian and non-Gaussian distributions.
-    We find that subjective prior beliefs - especially prior mean and risk aversion, play a significant
-    role in hedging decisions for all distributions tested. Other factors such as initial wealth play
-    little to no role in optimal hedging decisions. Our results indicate that the heterogeneous hedging
-    behavior of farmers can be fully rationalized through our expected utility framework.
-  </p>
-</details>
+<p><strong>Abstract.</strong> Farmers have historically hedged much less of their corn production than economists recommended.
+Previous research has mostly modeled farmer behavior by employing the mean-variance hedge ratio
+in a 2-period investment setting. In this paper, we eschew this approach and use expected utility
+theory to rationalize hedging decisions made by farmers in a dynamic setting. We enable our farmer
+to make hedging decisions on a weekly basis to account for incremental changes in prior market
+beliefs. We operationalize farmer uncertainty through both Gaussian and non-Gaussian distributions.
+We find that subjective prior beliefs - especially prior mean and risk aversion, play a significant
+role in hedging decisions for all distributions tested. Other factors such as initial wealth play
+little to no role in optimal hedging decisions. Our results indicate that the heterogeneous hedging
+behavior of farmers can be fully rationalized through our expected utility framework.</p>
 
 [Download paper](assets/Hoarty_JMP.pdf)
 
