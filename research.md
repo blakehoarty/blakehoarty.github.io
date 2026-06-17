@@ -94,6 +94,7 @@ Equivalence scales measure the income difference needed to compare income across
 ## Extension Work 
 
 **Is There A Future for Tobacco Farming?**
+[(Link)](https://southernagtoday.org/2026/06/08/is-there-a-future-for-tobacco-farming/)
 
 *Jeffrey H. Dorfman, Blake Hoarty, Younghyeon Jeon*
 
