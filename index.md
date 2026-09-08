@@ -32,7 +32,6 @@
   <a href="Hoarty_JMP.pdf" target="_blank">Job Market Paper</a>
 </div>
 
-# Blake Hoarty
 PhD Candidate in Economics  
 North Carolina State University
 
