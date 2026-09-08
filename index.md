@@ -32,11 +32,11 @@
   <a href="Hoarty_JMP.pdf" target="_blank">Job Market Paper</a>
 </div>
 
-My research focuses on agricultural economics, risk management,
-commodity futures markets, and applied econometrics.
-
 Ph.D. Student in Economics  
 North Carolina State University  
+
+My research focuses on agricultural economics, risk management,
+commodity futures markets, and applied econometrics.
 
 I am on the 2026–2027 economics job market.
 
