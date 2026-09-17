@@ -35,9 +35,6 @@
 Ph.D. Student in Economics  
 North Carolina State University  
 
-My research focuses on agricultural economics, risk management,
-commodity futures markets, and applied econometrics.
-
 I am on the 2026–2027 economics job market.
 
 ## Research Interests 
