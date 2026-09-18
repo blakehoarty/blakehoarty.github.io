@@ -29,7 +29,7 @@
 
 ## Instructor of Record
 
-- EC 202: Principles of Macroeconomics, North Carolina State University (Spring 2024, Spring 2026)
+- EC 202: Principles of Macroeconomics, North Carolina State University (Spring 2024, Spring 2026, Fall 2026)
 - ARE 201: Introduction to Agricultural & Resource Economics, North Carolina State University (Spring 2025)
 
 ## Teaching Assistant
