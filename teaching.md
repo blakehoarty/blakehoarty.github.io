@@ -57,6 +57,9 @@
 
 ## Teaching Statement
 
-<a href="Hoarty teaching statement.pdf" target="_blank">
-  View My Teaching Statement (PDF)
-</a>
+<iframe
+  src="Hoarty%20teaching%20statement.pdf"
+  width="100%"
+  height="900px"
+  style="border: none;">
+</iframe>
