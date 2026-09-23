@@ -58,8 +58,8 @@
 ## Teaching Statement
 
 <iframe
-  src="Hoarty%20teaching%20statement.pdf"
+  src="Hoarty%20teaching%20statement.pdf#toolbar=0&navpanes=0"
   width="100%"
-  height="900px"
+  height="1100px"
   style="border: none;">
 </iframe>
