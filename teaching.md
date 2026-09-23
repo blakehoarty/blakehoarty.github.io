@@ -54,3 +54,9 @@
 
 **EC 202: Principles of Macroeconomics, Spring 2024**
 <img src="ec_202_spring2024-1.png" alt="EC 202 Spring 2024 Teaching Evaluation" width="850">
+
+## Teaching Statement
+
+<a href="Hoarty teaching statement.pdf" target="_blank">
+  View My Teaching Statement (PDF)
+</a>
