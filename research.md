@@ -31,16 +31,7 @@
 
 *Blake Hoarty, Jeffrey H. Dorfman*
 
-<p><strong>Abstract.</strong> Farmers have historically hedged much less of their corn production than economists recommended.
-Previous research has mostly modeled farmer behavior by employing the mean-variance hedge ratio
-in a 2-period investment setting. In this paper, we eschew this approach and use expected utility
-theory to rationalize hedging decisions made by farmers in a dynamic setting. We enable our farmer
-to make hedging decisions on a weekly basis to account for incremental changes in prior market
-beliefs. We operationalize farmer uncertainty through both Gaussian and non-Gaussian distributions.
-We find that subjective prior beliefs - especially prior mean and risk aversion, play a significant
-role in hedging decisions for all distributions tested. Other factors such as initial wealth play
-little to no role in optimal hedging decisions. Our results indicate that the heterogeneous hedging
-behavior of farmers can be fully rationalized through our expected utility framework.</p>
+<p><strong>Abstract.</strong> Farmers have historically exhibited a tremendous amount of heterogeneity in their hedging patterns. Previous research has mostly modeled farmer behavior by employing the mean-variance hedge ratio in a 2-period investment setting. In this paper, we use expected utility theory to rationalize hedging decisions made by farmers in a dynamic setting, allowing for subjective beliefs about market conditions. We enable our representative farmer to make hedging decisions on a weekly basis to account for incremental changes in market beliefs.  We find that subjective prior beliefs and crop insurance coverage play a significant role in hedging decisions. Other factors such as initial wealth play a small but non-negligible role in guiding hedging decisions. Our results indicate that only pessimistic farmers hedge in concordance with traditional financial wisdom. We also find that unbiased farmers, regardless of the degree of risk aversion, forgo hedging until late in the calendar year.</p>
 
 [Download paper](assets/Hoarty_JMP.pdf)
 
