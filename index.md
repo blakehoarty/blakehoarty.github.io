@@ -36,6 +36,7 @@
 
 Ph.D. Student in Economics  
 North Carolina State University  
+Email: [bchoarty@ncsu.edu](mailto:bchoarty@ncsu.edu)
 
 I am on the 2026–2027 economics job market.
 
